@@ -1,0 +1,17 @@
+the best solution's fitness is 
+112.071
+the time when getting the optimal solution is 
+1
+the sequence of best solution is following
+0 26 11 36 14 44 32 4 
+0 8 29 48 16 
+0 10 37 38 9 49 21 
+0 50 46 18 41 43 45 
+0 3 40 12 17 
+0 31 
+0 7 25 30 27 2 35 34 19 1 
+0 5 13 24 23 42 6 22 47 
+0 28 20 33 15 
+0 39 
+
+the actuall costs is 112.071

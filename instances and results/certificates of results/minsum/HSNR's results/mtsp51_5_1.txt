@@ -1,0 +1,14 @@
+the best solution's fitness is 
+471.693
+the time when getting the optimal solution is 
+1
+the sequence of best solution is following
+0 10 37 4 36 16 3 17 46 11 45 50 5 47 22 6 42 23 13 24 12 40 39 18 41 43 14 44 32 38 9 48 8 29 33 49 15 20 28 19 34 35 2 27 30 25 7 
+0 21 
+0 26 
+0 1 
+0 31 
+
+
+
+

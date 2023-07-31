@@ -1,0 +1,19 @@
+the best solution's fitness is 
+29539.5
+the time when getting the optimal solution is 
+1
+the sequence of best solution is following
+0 52 
+0 131 39 146 11 45 171 120 173 158 23 31 135 60 25 198 6 81 77 8 137 123 117 15 50 193 62 43 187 115 121 169 47 83 10 51 86 125 95 165 164 103 96 80 196 44 32 155 99 73 56 35 174 9 91 98 18 118 65 152 178 36 183 28 109 17 48 189 148 105 92 162 3 100 59 191 13 107 68 141 179 130 188 72 2 58 40 88 153 20 139 163 101 75 69 143 22 172 149 90 94 93 181 194 112 175 132 136 42 104 4 177 151 55 195 85 138 49 167 184 61 82 71 129 70 37 38 27 147 87 113 97 199 170 140 57 33 89 24 16 142 102 145 128 133 21 7 154 182 74 53 5 108 106 156 186 150 160 124 180 1 34 168 67 29 166 127 192 157 76 79 64 176 66 30 46 119 111 126 185 134 41 54 19 63 161 159 78 12 14 122 197 26 190 144 84 
+0 110 116 114 
+
+the using frequency of each operators in EAX is following
+the percentage of or-insert is -nan
+the percentage of or-swap is -nan
+all percentage of each operator is following 
+-nan  -nan  -nan  -nan  
+-nan  -nan  -nan  -nan  
+-nan  -nan  -nan  -nan  
+-nan  -nan  -nan  -nan  
+
+

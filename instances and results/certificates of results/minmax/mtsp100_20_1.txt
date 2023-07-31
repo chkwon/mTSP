@@ -1,0 +1,40 @@
+the best solution's fitness is 
+6358.49
+the time when getting the optimal solution is 
+1
+the sequence of best solution is following
+0 12 31 89 33 21 41 48 69 16 96 93 49 
+0 23 26 84 77 79 68 85 
+0 14 15 53 63 99 50 34 70 72 83 
+0 19 8 54 91 3 76 
+0 18 1 47 
+0 94 
+0 75 7 10 88 97 
+0 42 36 52 82 5 39 59 
+0 44 32 30 56 71 73 57 65 
+0 27 11 81 
+0 9 25 
+0 55 20 62 
+0 45 60 17 24 78 
+0 86 
+0 35 66 74 43 92 40 
+0 2 46 13 95 
+0 29 38 
+0 87 67 6 28 80 
+0 61 4 90 
+0 58 64 98 51 22 37 
+
+the actuall costs is 6358.49
+the using frequency of each operators in EAX is following
+the percentage of or-insert is 0.346939
+the percentage of or-swap is 0.653061
+all percentage of each operator is following 
+0.326531  0.0204082  0  0  0  0  0  
+0.285714  0.0816327  0.0204082  0.0408163  0  0  0  
+0.0816327  0  0.0204082  0  0  0  0  
+0.0612245  0.0204082  0.0204082  0  0  0  0  
+0  0  0  0  0  0  0  
+0  0.0204082  0  0  0  0  0  
+0  0  0  0  0  0  0  
+
+
